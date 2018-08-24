@@ -29,7 +29,7 @@ où nous vous enverrons, par mail, un lien vous permettant d'ouvrir l'applicatio
 4/ Une fois connecté, vous vous trouverez par défaut dans la page d'accueil. 
 	En bas de l'écran il y a 4 onglets de navigation: 
 		Le premier à gauche est la page d'accueil,
-		Le second est la pages des graphiques (prix de consommation éléctrique en fonction du temps)
+		Le second est la page des graphiques (prix de consommation éléctrique en fonction du temps)
 		Le troisième est la page des appareils
 		Le quatrième est la page des paramètres
 
@@ -37,7 +37,7 @@ où nous vous enverrons, par mail, un lien vous permettant d'ouvrir l'applicatio
 		afin de minimiser notre consommation éléctrique.
 
 	4.2/ La page des graphiques, elle, contient encore 2 autres onglets au-dessus, Jours et Semaines.
-		La page 'Jours', elle, affiche un un graphique du prix de votre consommation éléctrique (en euro) en fonction des heures.
+		La page 'Jours', affiche un graphique du prix de votre consommation éléctrique (en euro) en fonction des heures.
 		Ce graphique commence à partir du moment où l'OCR a pris la première photo dans la journée 
 		et termine après la dernière photo de la journée.
 		Le premier graphique qui s'affiche par défaut sont les prelèvement d'aujourd'hui. Mais au-dessus vous pouvez voir un bouton
@@ -65,8 +65,8 @@ où nous vous enverrons, par mail, un lien vous permettant d'ouvrir l'applicatio
 		l'appareil consomme et le prix qu'il va couter à la fin du mois.
 	
 	4.4/ La page des paramètres vous permet ici de pouvoir modifier vos informations personnelles, mot de passe, prendre contact en cas de besoin ou 
-		de vous déconnectez. Il y a quatre boutons qui proposent les différents options cité juste avant:
-			- Modifier vos informations (Nom, Prénom, date de naissance, adresse e-mail, communes et fournisseur d'éléctricité)
+		bien vous déconnecter. Il y a quatre boutons qui proposent les différentes options cité juste avant:
+			- Modifier vos informations (Nom, Prénom, Date de naissance, Adresse e-mail, Communes et fournisseur d'éléctricité)
 			- Modifier votre mot de passe
 			- Prendre contact avec l'équipe kWapp
 			- Se déconnecter
